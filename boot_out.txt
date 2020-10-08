@@ -1,0 +1,1 @@
+Adafruit CircuitPython 6.0.0-beta.0-38-g410d27b74-dirty on 2020-10-05; stm32f411ce_gps_speedometr with STM32F411CE
