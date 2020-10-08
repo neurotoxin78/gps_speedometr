@@ -133,7 +133,7 @@ class UI(object):
 
     def _counter(self, fill_color):
         self.counter = label.Label(
-            self.font_middle, text="000000  ", color=fill_color)
+            self.font_middle, text="000000   ", color=fill_color)
         self.counter.x = 73
         self.counter.y = 84
         self.main_group.append(self.counter)
